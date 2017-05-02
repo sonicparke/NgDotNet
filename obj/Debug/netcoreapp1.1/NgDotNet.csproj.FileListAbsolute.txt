@@ -2,3 +2,8 @@
 /Users/bmcalister/Documents/DEV/NgDotNet/bin/Debug/netcoreapp1.1/NgDotNet.runtimeconfig.json
 /Users/bmcalister/Documents/DEV/NgDotNet/bin/Debug/netcoreapp1.1/NgDotNet.runtimeconfig.dev.json
 /Users/bmcalister/Documents/DEV/NgDotNet/obj/Debug/netcoreapp1.1/NgDotNet.AssemblyInfo.cs
+/Users/bmcalister/Documents/DEV/NgDotNet/bin/Debug/netcoreapp1.1/NgDotNet.dll
+/Users/bmcalister/Documents/DEV/NgDotNet/bin/Debug/netcoreapp1.1/NgDotNet.pdb
+/Users/bmcalister/Documents/DEV/NgDotNet/obj/Debug/netcoreapp1.1/NgDotNet.csproj.CoreCompileInputs.cache
+/Users/bmcalister/Documents/DEV/NgDotNet/obj/Debug/netcoreapp1.1/NgDotNet.dll
+/Users/bmcalister/Documents/DEV/NgDotNet/obj/Debug/netcoreapp1.1/NgDotNet.pdb
