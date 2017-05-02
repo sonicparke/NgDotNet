@@ -1,0 +1,4 @@
+/Users/bmcalister/Documents/DEV/NgDotNet/bin/Debug/netcoreapp1.1/NgDotNet.deps.json
+/Users/bmcalister/Documents/DEV/NgDotNet/bin/Debug/netcoreapp1.1/NgDotNet.runtimeconfig.json
+/Users/bmcalister/Documents/DEV/NgDotNet/bin/Debug/netcoreapp1.1/NgDotNet.runtimeconfig.dev.json
+/Users/bmcalister/Documents/DEV/NgDotNet/obj/Debug/netcoreapp1.1/NgDotNet.AssemblyInfo.cs
